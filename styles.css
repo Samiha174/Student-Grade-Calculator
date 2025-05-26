@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(217, 217, 255);
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+      width: 100%;
+      max-width: 800px;
+      margin: auto;
+      border-collapse: collapse;
+}
+
+th, td{
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #000000
+}
+    
+.actions{
+    margin-top: 24px;  /* Distance from the table*/
+    display: flex;   
+    gap: 16px;    /* space between buttons */
+    justify-content: center;  /* horizontally center the box */
+}
+
+.output-box{
+    display: inline-block;
+    margin-left: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px 20px;
+    min-width: 90px;
+}
+
+
