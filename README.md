@@ -14,8 +14,3 @@ A simple web-based application to calculate GPA based on selected courses, credi
 - Automatic GPA calculation based on credit-weighted averages.
 - Responsive layout suitable for desktop screens.
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/student-grade-calculator.git
